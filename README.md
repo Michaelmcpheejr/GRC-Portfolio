@@ -1,4 +1,4 @@
-# Cybersecurity & GRC Portfolio – Michael McPhee Jr.
+# GRC Portfolio – Michael McPhee Jr. #
 
 Welcome to my GRC portfolio, where I document internal/external audits consisting of compliance frameworks and threat mitigation projects that I've conducted.
 
@@ -6,7 +6,7 @@ Welcome to my GRC portfolio, where I document internal/external audits consistin
 
 ## Horizon Valley Medical Center – Internal Security Audit ##
 
-Engagement Type: Internal Audit  
+**Engagement Type**: Internal Audit  
 **Industry**: Healthcare  
 **Frameworks**: NIST CSF, HIPAA, SOC 2  
 **Role**: Lead Auditor
