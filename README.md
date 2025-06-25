@@ -18,4 +18,4 @@ To address these concerns, I was tasked with executing a detailed internal audit
 
 [Read the Full Executive Summary] [Executive Briefing for (Horizon Valley Medical Center).pdf](https://github.com/user-attachments/files/20912724/Executive.Briefing.for.Horizon.Valley.Medical.Center.pdf)
 
-[View the Full Audit Report]([Internal Security Audit Report (Horizon Valley Medical Center).pdf](https://github.com/user-attachments/files/20912681/Internal.Security.Audit.Report.Horizon.Valley.Medical.Center.pdf)
+[View the Full Audit Report] [Internal Security Audit Report (Horizon Valley Medical Center).pdf](https://github.com/user-attachments/files/20912681/Internal.Security.Audit.Report.Horizon.Valley.Medical.Center.pdf)
